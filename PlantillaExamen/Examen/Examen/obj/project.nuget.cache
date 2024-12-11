@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zY5IVbCid5Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hugo\\Interfaces\\Examen\\Ethan_SanMartin_Dam2\\Examen\\Examen\\Examen.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hugo\\.nuget\\packages\\communitytoolkit.mvvm\\8.3.2\\communitytoolkit.mvvm.8.3.2.nupkg.sha512",
+    "C:\\Users\\Hugo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\Hugo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
